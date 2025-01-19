@@ -26,6 +26,12 @@ This is a 3D model of a screwdriver designed using **Onshape**, inspired by a re
 
 ---
 
+### **Measurement Tools**
+**Ruler:** Used for measuring the general dimensions of the screwdriver, such as the length of the handle and shaft.
+**Digital Caliper:** Ensured precise measurements for the thickness of the handle grooves and the diameter of the screwdriver tip.
+
+---
+
 **THE ACTUAL ONE:**
 
 ![Screenshot 2025-01-20 000001](https://github.com/user-attachments/assets/31fe2e3c-81d5-4833-a467-5a9d9e756af4)
@@ -52,12 +58,6 @@ This 3D model of a coffee cup was created using **Onshape**, inspired by a real-
    - Utilized to create the curved, smooth shape of the cup.
 3. **Shell**:
    - Applied to hollow the interior and maintain realistic wall thickness.
-
----
-
-### **Measurement Tools**
-**Ruler:** Used for measuring the general dimensions of the screwdriver, such as the length of the handle and shaft.
-**Digital Caliper:** Ensured precise measurements for the thickness of the handle grooves and the diameter of the screwdriver tip.
 
 
 ---
