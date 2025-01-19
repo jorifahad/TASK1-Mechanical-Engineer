@@ -29,10 +29,10 @@ This is a 3D model of a screwdriver designed using **Onshape**, inspired by a re
 
 **THE ACTUAL ONE:**
 
-![Screenshot 2025-01-20 000001](https://github.com/user-attachments/assets/3c16ff6a-89f0-48af-9c97-2cbfacefccf0)
+![Screenshot 2025-01-20 000001](https://github.com/user-attachments/assets/31fe2e3c-81d5-4833-a467-5a9d9e756af4)
 
 **BY Onshape:**
-![WhatsApp Image 2025-01-19 at 22 06 30_06dcf219](https://github.com/user-attachments/assets/2ad7821a-e193-48cf-b358-a5ecfbbb764b)
+![WhatsApp Image 2025-01-19 at 22 06 30_e7df0fa1](https://github.com/user-attachments/assets/121ae3cd-3868-48d5-9bff-fdc9c26f550a)
 
 ### **Design Link**
 https://cad.onshape.com/documents/7cdb04a6f874a6a32dacf7e8/w/8c6ffde2e4f8c849632eaf5c/e/0870af939d5a7a366425b007?renderMode=0&uiState=678d4cd37feb67171c819f17
@@ -71,7 +71,7 @@ This 3D model of a coffee cup was created using **Onshape**, inspired by a real-
 ---
 
 **BY Onshape:**
-![WhatsApp Image 2025-01-19 at 22 06 30_06dcf219](https://github.com/user-attachments/assets/2ad7821a-e193-48cf-b358-a5ecfbbb764b)
+![image](https://github.com/user-attachments/assets/da8b3193-47a7-4081-a4cb-761030e2aae6)
 
 ### **Design Link**
 https://cad.onshape.com/documents/70068e2f7b62ac6d8f95e0bf/w/1f45609521dbfc88948e2c93/e/1adf6e766173d164e373b363?renderMode=0&uiState=678d4d97d645c54c107787b8
